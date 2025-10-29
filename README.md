@@ -191,3 +191,20 @@ bun start --dev-client
 
 This project demonstrates a fully native cross-platform app architecture using React Native and Expo.  
 It’s optimized for production and ready for App Store, Google Play, and web deployment.
+
+## Screenshots
+
+![WhatsApp Image 2025-10-29 at 19 26 43_416e4986](https://github.com/user-attachments/assets/435535c6-316c-4e30-aca8-4f597a6a4e9f)
+
+![WhatsApp Image 2025-10-29 at 19 26 43_936bf041](https://github.com/user-attachments/assets/67dcf730-64cb-497d-9e4e-c3beca8bc594)
+
+![WhatsApp Image 2025-10-29 at 19 26 42_1f75a491](https://github.com/user-attachments/assets/9c5fd0fd-381b-4659-b022-afb52c6dea73)
+
+![WhatsApp Image 2025-10-29 at 19 26 42_85bbf7c9](https://github.com/user-attachments/assets/40895eeb-66d8-4b6d-8fa6-3cbeda231f30)
+
+![WhatsApp Image 2025-10-29 at 19 26 42_db987982](https://github.com/user-attachments/assets/86e7c472-ea51-4b76-8eb7-1990fd9491dd)
+
+![WhatsApp Image 2025-10-29 at 19 26 41_2a77264e](https://github.com/user-attachments/assets/6e06bd24-1398-4a90-b6d8-cebd98cf6ae3)
+
+![WhatsApp Image 2025-10-29 at 19 26 41_fd62440c](https://github.com/user-attachments/assets/379bcc85-517c-4b0a-b83a-b9417e818065)
+
