@@ -1,0 +1,60 @@
+# Node dependencies
+node_modules/
+bun.lock
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Expo / Metro / Build
+.expo/
+dist/
+web-build/
+.expo-shared/
+.metro-cache/
+.metro-health-check*
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Environment files
+.env
+.env*.local
+expo-env.d.ts
+
+# Logs
+*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# Mac / OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.pem
+*.orig.*
+
+# Native signing / build keys
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Temporary build outputs
+coverage/
+tmp/
+.cache/
+
+# Vercel / Deployment
+.vercel
+
+# Misc
+package-lock.json
+
+# Optional: uncomment if you use these
+# .expo-dev/
+# android/
+# ios/
